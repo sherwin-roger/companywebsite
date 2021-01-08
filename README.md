@@ -168,4 +168,4 @@ Publish the website in the given URL.
 
 ![output](./static/img/report2.jpg)
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://demo2.student.saveetha.in:8000/. HTML code is validated.
+Thus a website is designed for the chip manufacturing company and is hosted in the URL http://sherwin.student.saveetha.in:8000/. HTML code is validated.
